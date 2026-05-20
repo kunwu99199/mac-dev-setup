@@ -6,8 +6,7 @@
 curl -fsSL https://raw.githubusercontent.com/kunwu8/mac-dev-setup/main/setup.sh | bash
 ```
 
-[!["Buy Me A Coffee"](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/kunwu8)
-[![GitHub Sponsors](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA54AE)](https://github.com/sponsors/kunwu8)
+[![USDT (TRC-20)](https://img.shields.io/badge/USDT_TRC20-26A17B?style=for-the-badge&logo=tether&logoColor=white)](https://github.com/kunwu99199/mac-dev-setup#%E6%94%AF%E6%8C%81%E8%BF%99%E4%B8%AA%E9%A1%B9%E7%9B%AE)
 
 ---
 
@@ -88,13 +87,14 @@ docker --version        # Docker
 
 ## ❤️ 支持这个项目
 
-如果这个脚本帮你省了配置环境的 30 分钟，欢迎请我喝杯咖啡 ☕
+如果这个脚本帮你省了配置环境的 30 分钟，欢迎投喂 ☕
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/kunwu8)
+**USDT (TRC-20):**
+```
+TPt188ET91SCS9wJCk6C27sAqzKEB4CLfn
+```
 
-或者通过 GitHub Sponsors 赞助：
-
-[https://github.com/sponsors/kunwu8](https://github.com/sponsors/kunwu8)
+[![USDT (TRC-20)](https://img.shields.io/badge/donate-USDT_TRC20-26A17B?style=for-the-badge&logo=tether&logoColor=white)](https://github.com/kunwu99199/mac-dev-setup#%E6%94%AF%E6%8C%81%E8%BF%99%E4%B8%AA%E9%A1%B9%E7%9B%AE)
 
 ## 📄 许可证
 
